@@ -11,7 +11,7 @@ $emp =[
 
 /* Table tag use korar jonno */
 
-echo "<table border ='2px' cellpadding='5px' cellspacing='0'> ";
+echo "<table border ='2px' cellpadding='5px' cellspacing='0'>";
 
 echo "<tr>
 
